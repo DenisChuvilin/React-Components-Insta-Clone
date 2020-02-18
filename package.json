@@ -16,5 +16,8 @@
     "eject": "react-scripts eject"
   },
   "keywords": [],
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "react-devtools": "^4.4.0"
+  }
 }
